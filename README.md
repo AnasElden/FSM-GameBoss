@@ -1,4 +1,4 @@
-# Boss AI — FSM Simulator (Streamlit)
+# Boss AI — FSM Simulator 
 
 Interactive web app for the paper:
 
