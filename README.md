@@ -17,3 +17,6 @@ Interactive web app for the paper:
 - Transition function table (Table 3)
 - Complexity analysis (Section 8.1)
 - State path visualization
+
+
+Deployed APP : https://muxwy5mnt26qpxdasm4o4j.streamlit.app/
